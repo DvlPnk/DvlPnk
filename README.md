@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DvlPnk
+- 👋 Hi, I’m Pierre Ruiz
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning unity and unreal
 - 💞️ I’m looking to collaborate on projects

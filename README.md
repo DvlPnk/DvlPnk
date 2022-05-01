@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Pierre Ruiz
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning unity and unreal
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me pierre_adan@hotmail.com
+- 💞️ I’m working already in LEAP Game Studios as a game devs
+- 📫 How to reach me pierre_adan@hotmail.com / pierre.ruiz.r@uni.pe
 
 <!---
 DvlPnk/DvlPnk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

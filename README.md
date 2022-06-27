@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pierre Ruiz
 - 👀 I’m interested in game development with unreal engine
 - 🌱 I’m currently learning react and unreal engine
-- 💞️ I’m working already in LEAP Game Studios as a game devs
+- 💞️ I’m working already in LEAP Game Studios as a game dev
 - 📫 How to reach me pierre_adan@hotmail.com / pierre.ruiz.r@uni.pe
 
 <!---
